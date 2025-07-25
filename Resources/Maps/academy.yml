@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 07/25/2025 02:14:40
-  entityCount: 28552
+  time: 07/25/2025 03:02:23
+  entityCount: 28553
 maps:
 - 1
 grids:
@@ -11525,7 +11525,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -33750.258
+      secondsUntilStateChange: -35900.656
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -81247,6 +81247,14 @@ entities:
       parent: 2
     - type: AtmosPipeColor
       color: '#FF1212FF'
+  - uid: 28553
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -38.5,-53.5
+      parent: 2
+    - type: AtmosPipeColor
+      color: '#FF1212FF'
 - proto: GasPipeFourway
   entities:
   - uid: 2167
@@ -106840,7 +106848,6 @@ entities:
   - uid: 28546
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-59.5
       parent: 2
     - type: AtmosPipeColor
@@ -106848,7 +106855,6 @@ entities:
   - uid: 28547
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-58.5
       parent: 2
     - type: AtmosPipeColor
@@ -106856,7 +106862,6 @@ entities:
   - uid: 28548
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-57.5
       parent: 2
     - type: AtmosPipeColor
@@ -106864,7 +106869,6 @@ entities:
   - uid: 28549
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-56.5
       parent: 2
     - type: AtmosPipeColor
@@ -106872,7 +106876,6 @@ entities:
   - uid: 28550
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-55.5
       parent: 2
     - type: AtmosPipeColor
@@ -106880,7 +106883,6 @@ entities:
   - uid: 28551
     components:
     - type: Transform
-      rot: 3.141592653589793 rad
       pos: -38.5,-54.5
       parent: 2
     - type: AtmosPipeColor
@@ -118359,11 +118361,12 @@ entities:
   - uid: 28552
     components:
     - type: Transform
-      pos: -38.5,-53.5
+      rot: -1.5707963267948966 rad
+      pos: -37.5,-53.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
+#      configurators:
+#      - invalid
       deviceLists:
       - 1415
     - type: AtmosPipeColor
@@ -173503,7 +173506,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -88384.75
+      secondsUntilStateChange: -90535.15
       state: Opening
 - proto: WebShield
   entities:
@@ -174199,7 +174202,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -23043.482
+      secondsUntilStateChange: -25193.883
       state: Opening
     - type: Airlock
       autoClose: False
