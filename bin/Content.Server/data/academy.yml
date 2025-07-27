@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 07/25/2025 21:26:02
-  entityCount: 28612
+  time: 07/27/2025 20:40:08
+  entityCount: 28611
 maps:
 - 1
 grids:
@@ -5822,26 +5822,6 @@ entities:
     - type: Transform
       pos: -2.2399364,-33.589077
       parent: 2
-- proto: ActionBibleSummon
-  entities:
-  - uid: 429
-    mapInit: true
-    paused: true
-    components:
-    - type: Transform
-      parent: 425
-    - type: InstantAction
-      originalIconColor: '#FFFFFFFF'
-      container: 425
-  - uid: 11330
-    mapInit: true
-    paused: true
-    components:
-    - type: Transform
-      parent: 11329
-    - type: InstantAction
-      originalIconColor: '#FFFFFFFF'
-      container: 11329
 - proto: ActionToggleInternals
   entities:
   - uid: 6733
@@ -9248,45 +9228,11 @@ entities:
       parent: 2
 - proto: AirlockClownGlassLocked
   entities:
-  - uid: 600
+  - uid: 9122
     components:
     - type: Transform
       pos: 29.5,44.5
       parent: 2
-    - type: PaintableAirlock
-      department: Justice
-    - type: AccessReader
-      access:
-      - - Clown
-      - - Justice
-      - - Lawyer
-      - - Mime
-  - uid: 601
-    components:
-    - type: Transform
-      pos: 20.5,43.5
-      parent: 2
-    - type: PaintableAirlock
-      department: Justice
-    - type: AccessReader
-      access:
-      - - Clown
-      - - Justice
-      - - Lawyer
-      - - Mime
-  - uid: 602
-    components:
-    - type: Transform
-      pos: 23.5,44.5
-      parent: 2
-    - type: PaintableAirlock
-      department: Justice
-    - type: AccessReader
-      access:
-      - - Clown
-      - - Justice
-      - - Lawyer
-      - - Mime
 - proto: AirlockClownLocked
   entities:
   - uid: 5341
@@ -10346,6 +10292,11 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 39.5,-10.5
       parent: 2
+  - uid: 446
+    components:
+    - type: Transform
+      pos: 20.5,43.5
+      parent: 2
   - uid: 552
     components:
     - type: Transform
@@ -10360,6 +10311,16 @@ entities:
     components:
     - type: Transform
       pos: -43.5,-46.5
+      parent: 2
+  - uid: 601
+    components:
+    - type: Transform
+      pos: 23.5,44.5
+      parent: 2
+  - uid: 602
+    components:
+    - type: Transform
+      pos: 25.5,40.5
       parent: 2
   - uid: 658
     components:
@@ -11084,11 +11045,6 @@ entities:
     - type: Transform
       pos: 13.5,43.5
       parent: 2
-  - uid: 9122
-    components:
-    - type: Transform
-      pos: 25.5,40.5
-      parent: 2
   - uid: 10534
     components:
     - type: Transform
@@ -11295,21 +11251,6 @@ entities:
     components:
     - type: Transform
       pos: -19.5,-50.5
-      parent: 2
-  - uid: 17081
-    components:
-    - type: Transform
-      pos: 34.5,48.5
-      parent: 2
-    - type: AccessReader
-      access:
-      - - Clown
-      - - Justice
-      - - Mime
-  - uid: 17082
-    components:
-    - type: Transform
-      pos: 21.5,49.5
       parent: 2
 - proto: AirlockMaintCommandLocked
   entities:
@@ -11525,7 +11466,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -38082.812
+      secondsUntilStateChange: -38468.71
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -11750,11 +11691,6 @@ entities:
     - type: Transform
       pos: -41.5,-43.5
       parent: 2
-  - uid: 24030
-    components:
-    - type: Transform
-      pos: 25.5,48.5
-      parent: 2
   - uid: 26197
     components:
     - type: Transform
@@ -11863,6 +11799,11 @@ entities:
     - type: Transform
       pos: -19.5,-54.5
       parent: 2
+  - uid: 8948
+    components:
+    - type: Transform
+      pos: 21.5,49.5
+      parent: 2
 - proto: AirlockMaintMusicianLocked
   entities:
   - uid: 5575
@@ -11949,6 +11890,16 @@ entities:
       parent: 2
 - proto: AirlockMaintServiceLocked
   entities:
+  - uid: 447
+    components:
+    - type: Transform
+      pos: 34.5,48.5
+      parent: 2
+  - uid: 600
+    components:
+    - type: Transform
+      pos: 25.5,48.5
+      parent: 2
   - uid: 12940
     components:
     - type: Transform
@@ -12441,6 +12392,12 @@ entities:
     - type: Transform
       pos: -19.5,40.5
       parent: 2
+    - type: Door
+      secondsUntilStateChange: -362.68518
+      state: Opening
+    - type: DeviceLinkSource
+      lastSignals:
+        DoorStatus: True
   - uid: 1371
     components:
     - type: Transform
@@ -15255,434 +15212,10 @@ entities:
       parent: 2
 - proto: Bible
   entities:
-  - uid: 425
-    components:
-    - type: Transform
-      pos: -18.352755,49.529617
-      parent: 2
-    - type: Summonable
-      summonActionEntity: 429
-    - type: ContainerContainer
-      containers:
-        storagebase: !type:Container
-          showEnts: False
-          occludes: True
-          ents: []
-        actions: !type:Container
-          showEnts: False
-          occludes: True
-          ents:
-          - 429
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-    - type: ActionsContainer
-  - uid: 446
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -15.329317,41.595345
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 447
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -21.33713,41.743782
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 11292
-    components:
-    - type: Transform
-      pos: -21.509005,49.626595
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 11293
-    components:
-    - type: Transform
-      pos: -15.36838,49.478157
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 11294
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -18.376192,41.493782
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 11328
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -22.560017,57.27581
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 11329
-    components:
-    - type: Transform
-      pos: -22.31783,56.517998
-      parent: 2
-    - type: Summonable
-      summonActionEntity: 11330
-    - type: ContainerContainer
-      containers:
-        storagebase: !type:Container
-          showEnts: False
-          occludes: True
-          ents: []
-        actions: !type:Container
-          showEnts: False
-          occludes: True
-          ents:
-          - 11330
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-    - type: ActionsContainer
   - uid: 11845
     components:
     - type: Transform
       pos: 2.4215074,27.512161
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 14588
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -28.461884,38.568268
-      parent: 2
-    - type: Fixtures
-      fixtures:
-        fix1:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - Impassable
-          - HighImpassable
-          layer: []
-          density: 20
-          hard: True
-          restitution: 0.3
-          friction: 0.2
-        revenantReveal:
-          shape: !type:PolygonShape
-            radius: 0.01
-            vertices:
-            - -0.25,-0.25
-            - 0.25,-0.25
-            - 0.25,0.25
-            - -0.25,0.25
-          mask:
-          - GhostImpassable
-          layer:
-          - GhostImpassable
-          density: 1
-          hard: False
-          restitution: 0
-          friction: 0.4
-  - uid: 14589
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -31.282196,39.302643
       parent: 2
     - type: Fixtures
       fixtures:
@@ -16101,11 +15634,56 @@ entities:
       parent: 2
 - proto: BookRandomStory
   entities:
+  - uid: 425
+    components:
+    - type: Transform
+      pos: -15.416519,41.689598
+      parent: 2
+  - uid: 429
+    components:
+    - type: Transform
+      pos: -18.471207,49.42525
+      parent: 2
+  - uid: 11292
+    components:
+    - type: Transform
+      pos: -21.580582,41.658348
+      parent: 2
+  - uid: 11293
+    components:
+    - type: Transform
+      pos: -31.396084,39.28091
+      parent: 2
+  - uid: 11294
+    components:
+    - type: Transform
+      pos: -15.346207,49.44869
+      parent: 2
+  - uid: 11328
+    components:
+    - type: Transform
+      pos: -18.29152,41.611473
+      parent: 2
+  - uid: 11329
+    components:
+    - type: Transform
+      pos: -22.439957,56.516747
+      parent: 2
+  - uid: 11330
+    components:
+    - type: Transform
+      pos: -21.588394,49.44869
+      parent: 2
   - uid: 11612
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -17.434086,56.524754
+      parent: 2
+  - uid: 13033
+    components:
+    - type: Transform
+      pos: -28.452156,38.663723
       parent: 2
 - proto: BookSalvageEpistemics1
   entities:
@@ -62239,15 +61817,6 @@ entities:
     - type: Transform
       pos: 1.5413285,31.338274
       parent: 2
-- proto: DebugSMES
-  entities:
-  - uid: 8948
-    components:
-    - type: Transform
-      pos: 9.5,-44.5
-      parent: 2
-    - type: PowerNetworkBattery
-      maxSupply: 5000
 - proto: DefaultStationBeacon
   entities:
   - uid: 12814
@@ -140471,11 +140040,6 @@ entities:
     - type: Transform
       pos: 22.5,42.5
       parent: 2
-  - uid: 13033
-    components:
-    - type: Transform
-      pos: 25.5,47.5
-      parent: 2
   - uid: 13773
     components:
     - type: Transform
@@ -140500,6 +140064,11 @@ entities:
     components:
     - type: Transform
       pos: 58.5,36.5
+      parent: 2
+  - uid: 17081
+    components:
+    - type: Transform
+      pos: 24.5,46.5
       parent: 2
 - proto: RandomVendingSnacks
   entities:
@@ -145079,6 +144648,21 @@ entities:
     components:
     - type: Transform
       pos: 3.5,70.5
+      parent: 2
+  - uid: 14588
+    components:
+    - type: Transform
+      pos: 9.5,-44.5
+      parent: 2
+  - uid: 14589
+    components:
+    - type: Transform
+      pos: 9.5,-43.5
+      parent: 2
+  - uid: 17082
+    components:
+    - type: Transform
+      pos: 9.5,-45.5
       parent: 2
   - uid: 20912
     components:
@@ -173827,7 +173411,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -92717.305
+      secondsUntilStateChange: -93103.2
       state: Opening
 - proto: WebShield
   entities:
@@ -174523,7 +174107,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -27376.04
+      secondsUntilStateChange: -27761.938
       state: Opening
     - type: Airlock
       autoClose: False
