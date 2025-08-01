@@ -4,7 +4,7 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 07/30/2025 21:42:01
+  time: 07/31/2025 23:35:44
   entityCount: 28222
 maps:
 - 1
@@ -505,6 +505,8 @@ entities:
     - type: Gravity
       gravityShakeSound: !type:SoundPathSpecifier
         path: /Audio/Effects/alert.ogg
+    - type: BecomesStation
+      id: Academy
     - type: DecalGrid
       chunkCollection:
         version: 2
@@ -11291,7 +11293,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -40595.473
+      secondsUntilStateChange: -40610.293
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -12218,7 +12220,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -2489.447
+      secondsUntilStateChange: -2504.2656
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -171131,7 +171133,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -95229.96
+      secondsUntilStateChange: -95244.78
       state: Opening
 - proto: WebShield
   entities:
@@ -171827,7 +171829,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -29888.7
+      secondsUntilStateChange: -29903.518
       state: Opening
     - type: Airlock
       autoClose: False
