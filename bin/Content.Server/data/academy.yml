@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 08/05/2025 00:37:47
-  entityCount: 28311
+  time: 08/05/2025 02:40:01
+  entityCount: 28316
 maps:
 - 1
 grids:
@@ -123,7 +123,7 @@ entities:
           version: 7
         0,1:
           ind: 0,1
-          tiles: DAAAAAADACAAAAAAAAAgAAAAAAIAIAAAAAAAAAwAAAAAAwAMAAAAAAAADAAAAAACADUAAAAAAwArAAAAAAMAKwAAAAADACsAAAAAAQArAAAAAAAAKwAAAAADACsAAAAAAQArAAAAAAIAKwAAAAADAAwAAAAAAgAMAAAAAAMADAAAAAABAAwAAAAAAQAMAAAAAAEADAAAAAACAAwAAAAAAwACAAAAAAAAKwAAAAACACsAAAAAAgArAAAAAAEAKwAAAAACACsAAAAAAAArAAAAAAAAKwAAAAADACsAAAAAAQAMAAAAAAAADAAAAAACAAwAAAAAAQAMAAAAAAEADAAAAAACAAwAAAAAAgAMAAAAAAAAAgAAAAAAACsAAAAAAgArAAAAAAIAAgAAAAAAAAMAAAAAAQADAAAAAAEAAwAAAAABAAIAAAAAAAADAAAAAAEANQAAAAABAAIAAAAAAAACAAAAAAAAAgAAAAAAADUAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAArAAAAAAAAKwAAAAABAAMAAAAAAQADAAAAAAMAAwAAAAADAAMAAAAAAwADAAAAAAIAAwAAAAABABQAAAAAAQAUAAAAAAEAFAAAAAACABQAAAAAAwAUAAAAAAMAFAAAAAAAABQAAAAAAQACAAAAAAAAKwAAAAABACsAAAAAAAADAAAAAAEAAwAAAAAAAAMAAAAAAAADAAAAAAAAAwAAAAACAAMAAAAAAAAUAAAAAAMAFAAAAAACABQAAAAAAgAUAAAAAAEAFAAAAAADABQAAAAAAgAUAAAAAAMAAgAAAAAAACsAAAAAAgArAAAAAAAAAwAAAAABAAMAAAAAAgADAAAAAAAAAwAAAAABAAMAAAAAAQADAAAAAAIAFAAAAAACABQAAAAAAwAUAAAAAAMAFAAAAAADABQAAAAAAgAUAAAAAAEAFAAAAAADAAIAAAAAAAArAAAAAAMAKwAAAAADAAIAAAAAAAADAAAAAAIAAwAAAAACAAMAAAAAAwACAAAAAAAAAwAAAAACABQAAAAAAwAUAAAAAAAAFAAAAAABABQAAAAAAAAUAAAAAAIAFAAAAAADABQAAAAAAAACAAAAAAAAKwAAAAADACsAAAAAAAArAAAAAAIAKwAAAAACACsAAAAAAQArAAAAAAAAKwAAAAADACsAAAAAAAAUAAAAAAIAFQAAAAABABUAAAAAAgAVAAAAAAIAFAAAAAAAABQAAAAAAwAUAAAAAAIAAgAAAAAAACsAAAAAAQArAAAAAAEAKwAAAAADACsAAAAAAQArAAAAAAAAKwAAAAACACsAAAAAAAArAAAAAAMAEwAAAAABABMAAAAAAwATAAAAAAEAEwAAAAAAABMAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAA1AAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAABMAAAAAAQATAAAAAAEAEwAAAAADABMAAAAAAQATAAAAAAMAAgAAAAAAAA8AAAAABQAPAAAAAAcADwAAAAADAAIAAAAAAAATAAAAAAMAEwAAAAABABMAAAAAAwATAAAAAAMAEwAAAAAAAAIAAAAAAAATAAAAAAEAEwAAAAAAABMAAAAAAAATAAAAAAAAEwAAAAABADUAAAAAAgAPAAAAAAcADwAAAAAGAA8AAAAABgACAAAAAAAAEwAAAAADABMAAAAAAwATAAAAAAAAEwAAAAACABMAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAADwAAAAAFAA8AAAAABwAPAAAAAAcAAgAAAAAAABMAAAAAAQATAAAAAAEAEwAAAAADABMAAAAAAAATAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA8AAAAABwAPAAAAAAYADwAAAAAGAAIAAAAAAAATAAAAAAMAEwAAAAACABMAAAAAAgATAAAAAAAAEwAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAADAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAADAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA==
+          tiles: DAAAAAADACAAAAAAAAAgAAAAAAIAIAAAAAAAAAwAAAAAAwAMAAAAAAAADAAAAAACADUAAAAAAwArAAAAAAMAKwAAAAADACsAAAAAAQArAAAAAAAAKwAAAAADACsAAAAAAQArAAAAAAIAKwAAAAADAAwAAAAAAgAMAAAAAAMADAAAAAABAAwAAAAAAQAMAAAAAAEADAAAAAACAAwAAAAAAwACAAAAAAAAKwAAAAACACsAAAAAAgArAAAAAAEAKwAAAAACACsAAAAAAAArAAAAAAAAKwAAAAADACsAAAAAAQAMAAAAAAAADAAAAAACAAwAAAAAAQAMAAAAAAEADAAAAAACAAwAAAAAAgAMAAAAAAAAAgAAAAAAACsAAAAAAgArAAAAAAIAAgAAAAAAAAMAAAAAAQADAAAAAAEAAwAAAAABAAIAAAAAAAADAAAAAAEANQAAAAABAAIAAAAAAAACAAAAAAAAAgAAAAAAADUAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAArAAAAAAAAKwAAAAABAAMAAAAAAQADAAAAAAMAAwAAAAADAAMAAAAAAwADAAAAAAIAAwAAAAABABQAAAAAAQAUAAAAAAEAFAAAAAACABQAAAAAAwAUAAAAAAMAFAAAAAAAABQAAAAAAQACAAAAAAAAKwAAAAABACsAAAAAAAADAAAAAAEAAwAAAAAAAAMAAAAAAAADAAAAAAAAAwAAAAACAAMAAAAAAAAUAAAAAAMAFAAAAAACABQAAAAAAgAUAAAAAAEAFAAAAAADABQAAAAAAgAUAAAAAAMAAgAAAAAAACsAAAAAAgArAAAAAAAAAwAAAAABAAMAAAAAAgADAAAAAAAAAwAAAAABAAMAAAAAAQADAAAAAAIAFAAAAAACABQAAAAAAwAUAAAAAAMAFAAAAAADABQAAAAAAgAUAAAAAAEAFAAAAAADAAIAAAAAAAArAAAAAAMAKwAAAAADAAIAAAAAAAADAAAAAAIAAwAAAAACAAMAAAAAAwACAAAAAAAAAwAAAAACABQAAAAAAwAUAAAAAAAAFAAAAAABABQAAAAAAAAUAAAAAAIAFAAAAAADABQAAAAAAAACAAAAAAAAKwAAAAADACsAAAAAAAArAAAAAAIAKwAAAAACACsAAAAAAQArAAAAAAAAKwAAAAADACsAAAAAAAAUAAAAAAIAFQAAAAABABUAAAAAAgAVAAAAAAIAFAAAAAAAABQAAAAAAwAUAAAAAAIAAgAAAAAAACsAAAAAAQArAAAAAAEAKwAAAAADACsAAAAAAQArAAAAAAAAKwAAAAACACsAAAAAAAArAAAAAAMAEwAAAAABABMAAAAAAwATAAAAAAEAEwAAAAAAABMAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAA1AAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAABMAAAAAAQATAAAAAAEAEwAAAAADABMAAAAAAQATAAAAAAMAAgAAAAAAAA8AAAAABQAPAAAAAAcADwAAAAADAAIAAAAAAAATAAAAAAMAEwAAAAABABMAAAAAAwATAAAAAAMAEwAAAAAAAAIAAAAAAAATAAAAAAEAEwAAAAAAABMAAAAAAAATAAAAAAAAEwAAAAABADUAAAAAAgAPAAAAAAcADwAAAAAGAA8AAAAABgACAAAAAAAAEwAAAAADABMAAAAAAwATAAAAAAAAEwAAAAACABMAAAAAAQACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAADwAAAAAFAA8AAAAABwAPAAAAAAcAAgAAAAAAABMAAAAAAQATAAAAAAEAEwAAAAADABMAAAAAAAATAAAAAAAANQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA8AAAAABwAPAAAAAAYADwAAAAAGAAIAAAAAAAATAAAAAAMAEwAAAAACABMAAAAAAgATAAAAAAAAEwAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAADAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAADAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA==
           version: 7
         -1,1:
           ind: -1,1
@@ -155,7 +155,7 @@ entities:
           version: 7
         2,0:
           ind: 2,0
-          tiles: FAAAAAADABQAAAAAAAAUAAAAAAIAFAAAAAABABQAAAAAAgAUAAAAAAIAAgAAAAAAAAQAAAAAAwAEAAAAAAIABAAAAAACAAQAAAAAAwAEAAAAAAAANQAAAAAAAAQAAAAAAQAEAAAAAAIABAAAAAABABQAAAAAAgAUAAAAAAAAFAAAAAACABQAAAAAAQAUAAAAAAEAFAAAAAACAAIAAAAAAAAEAAAAAAIABAAAAAABAAQAAAAAAQAEAAAAAAAABAAAAAAAAAIAAAAAAAAEAAAAAAEABAAAAAABAAQAAAAAAAAUAAAAAAEAFAAAAAADABQAAAAAAAAUAAAAAAEAFAAAAAAAABQAAAAAAgACAAAAAAAABAAAAAACAAQAAAAAAAAEAAAAAAIABAAAAAADAAQAAAAAAgACAAAAAAAABAAAAAAAAAQAAAAAAwAEAAAAAAMAFAAAAAAAABQAAAAAAgAUAAAAAAIAFAAAAAABABQAAAAAAwAUAAAAAAEAAgAAAAAAAAQAAAAAAAAEAAAAAAIABAAAAAAAAAQAAAAAAwAEAAAAAAIAAgAAAAAAADUAAAAAAQACAAAAAAAAAgAAAAAAABQAAAAAAAAUAAAAAAIAFAAAAAACABQAAAAAAwAUAAAAAAAAFAAAAAABAAIAAAAAAAAEAAAAAAIABAAAAAADAAQAAAAAAwAEAAAAAAIABAAAAAABAAIAAAAAAAAMAAAAAAMADAAAAAAAAAwAAAAAAQAEAAAAAAEABAAAAAAAAAQAAAAAAQAEAAAAAAEABAAAAAADAAQAAAAAAQACAAAAAAAABAAAAAACAC0AAAAAAwAEAAAAAAIABAAAAAAAAAQAAAAAAwACAAAAAAAADAAAAAACAAwAAAAAAgAMAAAAAAIABAAAAAAAAAQAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAwAEAAAAAAIAAgAAAAAAAAQAAAAAAgAtAAAAAAMABAAAAAACAAQAAAAAAwAEAAAAAAAAAgAAAAAAAAwAAAAAAAAMAAAAAAMADAAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAAEAAAAAAAALQAAAAABAAQAAAAAAwAEAAAAAAAABAAAAAAAAAIAAAAAAAAMAAAAAAIADAAAAAADAAwAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAgAEAAAAAAEABAAAAAABAAQAAAAAAwAEAAAAAAEABAAAAAACAAQAAAAAAAAEAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAALQAAAAACAAQAAAAAAAAEAAAAAAAABAAAAAADAC0AAAAAAQAtAAAAAAMALQAAAAACAAQAAAAAAwAtAAAAAAAABAAAAAACAAQAAAAAAwACAAAAAAAADAAAAAAAAAwAAAAAAgAMAAAAAAEAAgAAAAAAAAMAAAAAAAADAAAAAAAAAwAAAAACAAMAAAAAAAAEAAAAAAEABAAAAAABAAQAAAAAAAAEAAAAAAMABAAAAAABAAQAAAAAAQAEAAAAAAEAAgAAAAAAAAwAAAAAAgAMAAAAAAEADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAADAAAAAAAAAwAAAAAAAACAAAAAAAAFwAAAAAHABcAAAAABQAXAAAAAAYAFwAAAAAEABcAAAAABQAXAAAAAAcAFwAAAAAEAAIAAAAAAAAHAAAAAAMABwAAAAACAAcAAAAAAwAHAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAABcAAAAABwAXAAAAAAUAFwAAAAADABcAAAAABQAXAAAAAAYAFwAAAAAFABcAAAAABAACAAAAAAAABwAAAAADAAcAAAAAAgAHAAAAAAAABwAAAAABAAIAAAAAAAAhAAAAAAAAIQAAAAAAAAIAAAAAAAAXAAAAAAcAFwAAAAAHABcAAAAABAAXAAAAAAUAFwAAAAAFABcAAAAAAQAXAAAAAAUAAgAAAAAAAAcAAAAAAgAHAAAAAAAABwAAAAABAAcAAAAAAgA1AAAAAAEAAgAAAAAAAAIAAAAAAAACAAAAAAAAFwAAAAADABcAAAAABgAXAAAAAAQAFwAAAAAFABcAAAAABQAXAAAAAAQAFwAAAAAGAAIAAAAAAAAHAAAAAAIABwAAAAABAAcAAAAAAQAHAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA==
+          tiles: FAAAAAADABQAAAAAAAAUAAAAAAIAFAAAAAABABQAAAAAAgAUAAAAAAIAAgAAAAAAAAQAAAAAAwAEAAAAAAIABAAAAAACAAQAAAAAAwAEAAAAAAAANQAAAAAAAAQAAAAAAQAEAAAAAAIABAAAAAABABQAAAAAAgAUAAAAAAAAFAAAAAACABQAAAAAAQAUAAAAAAEAFAAAAAACAAIAAAAAAAAEAAAAAAIABAAAAAABAAQAAAAAAQAEAAAAAAAABAAAAAAAAAIAAAAAAAAEAAAAAAEABAAAAAABAAQAAAAAAAAUAAAAAAEAFAAAAAADABQAAAAAAAAUAAAAAAEAFAAAAAAAABQAAAAAAgACAAAAAAAABAAAAAACAAQAAAAAAAAEAAAAAAIABAAAAAADAAQAAAAAAgACAAAAAAAABAAAAAAAAAQAAAAAAwAEAAAAAAMAFAAAAAAAABQAAAAAAgAUAAAAAAIAFAAAAAABABQAAAAAAwAUAAAAAAEAAgAAAAAAAAQAAAAAAAAEAAAAAAIABAAAAAAAAAQAAAAAAwAEAAAAAAIAAgAAAAAAADUAAAAAAQACAAAAAAAAAgAAAAAAABQAAAAAAAAUAAAAAAIAFAAAAAACABQAAAAAAwAUAAAAAAAAFAAAAAABAAIAAAAAAAAEAAAAAAIABAAAAAADAAQAAAAAAwAEAAAAAAIABAAAAAABAAIAAAAAAAAMAAAAAAMADAAAAAAAAAwAAAAAAQAEAAAAAAEABAAAAAAAAAQAAAAAAQAEAAAAAAEABAAAAAADAAQAAAAAAQACAAAAAAAABAAAAAACAC0AAAAAAwAEAAAAAAIABAAAAAAAAAQAAAAAAwA1AAAAAAAADAAAAAACAAwAAAAAAgAMAAAAAAIABAAAAAAAAAQAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAwAEAAAAAAIAAgAAAAAAAAQAAAAAAgAtAAAAAAMABAAAAAACAAQAAAAAAwAEAAAAAAAANQAAAAAAAAwAAAAAAAAMAAAAAAMADAAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAAEAAAAAAAALQAAAAABAAQAAAAAAwAEAAAAAAAABAAAAAAAAAIAAAAAAAAMAAAAAAIADAAAAAADAAwAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAgAEAAAAAAEABAAAAAABAAQAAAAAAwAEAAAAAAEABAAAAAACAAQAAAAAAAAEAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAALQAAAAACAAQAAAAAAAAEAAAAAAAABAAAAAADAC0AAAAAAQAtAAAAAAMALQAAAAACAAQAAAAAAwAtAAAAAAAABAAAAAACAAQAAAAAAwACAAAAAAAADAAAAAAAAAwAAAAAAgAMAAAAAAEANQAAAAAAAAMAAAAAAAADAAAAAAAAAwAAAAACAAMAAAAAAAAEAAAAAAEABAAAAAABAAQAAAAAAAAEAAAAAAMABAAAAAABAAQAAAAAAQAEAAAAAAEAAgAAAAAAAAwAAAAAAgAMAAAAAAEADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAADAAAAAAAAAwAAAAAAAACAAAAAAAAFwAAAAAHABcAAAAABQAXAAAAAAYAFwAAAAAEABcAAAAABQAXAAAAAAcAFwAAAAAEAAIAAAAAAAAHAAAAAAMABwAAAAACAAcAAAAAAwAHAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAABcAAAAABwAXAAAAAAUAFwAAAAADABcAAAAABQAXAAAAAAYAFwAAAAAFABcAAAAABAACAAAAAAAABwAAAAADAAcAAAAAAgAHAAAAAAAABwAAAAABAAIAAAAAAAAhAAAAAAAAIQAAAAAAAAIAAAAAAAAXAAAAAAcAFwAAAAAHABcAAAAABAAXAAAAAAUAFwAAAAAFABcAAAAAAQAXAAAAAAUAAgAAAAAAAAcAAAAAAgAHAAAAAAAABwAAAAABAAcAAAAAAgA1AAAAAAEAAgAAAAAAAAIAAAAAAAACAAAAAAAAFwAAAAADABcAAAAABgAXAAAAAAQAFwAAAAAFABcAAAAABQAXAAAAAAQAFwAAAAAGAAIAAAAAAAAHAAAAAAIABwAAAAABAAcAAAAAAQAHAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAA==
           version: 7
         -2,-2:
           ind: -2,-2
@@ -391,7 +391,7 @@ entities:
           version: 7
         3,0:
           ind: 3,0
-          tiles: BAAAAAAAAAQAAAAAAQAEAAAAAAMABAAAAAACAAQAAAAAAwAEAAAAAAAABAAAAAACAAQAAAAAAAAEAAAAAAAABAAAAAABAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAwAEAAAAAAEABAAAAAAAAAQAAAAAAgAEAAAAAAAABAAAAAADAAQAAAAAAgACAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAAEAAAAAAAABAAAAAACAAQAAAAAAgAEAAAAAAMABAAAAAADAAQAAAAAAAAEAAAAAAAABAAAAAADAAQAAAAAAwAEAAAAAAEAAgAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAABAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAABAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAACAAAAAAAAAQAAAAAAAAwAAAAAAgAMAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAQAAAAAAgACAAAAAAAABAAAAAADAAQAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAMAAAAAAIADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAADUAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAQAEAAAAAAMAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAADAAAAAACAAwAAAAAAwACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAACAAIAAAAAAAAEAAAAAAAABAAAAAADAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAwAAAAAAgAMAAAAAAAANQAAAAADAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAEAAAAAAAAMAAAAAAAADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAABAAAAAAAADAAAAAABAAwAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAEAAAAAAAAhAAAAAAAAIQAAAAAAACEAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAADAAQAAAAAAAAEAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAAAAAQAAAAAAQAEAAAAAAMABAAAAAACAAQAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAAEAAAAAAMABAAAAAABAAQAAAAAAAAEAAAAAAEAAgAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAAAAAQAAAAAAQAEAAAAAAIAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA==
+          tiles: BAAAAAAAAAQAAAAAAQAEAAAAAAMABAAAAAACAAQAAAAAAwAEAAAAAAAABAAAAAACAAQAAAAAAAAEAAAAAAAABAAAAAABAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAwAEAAAAAAEABAAAAAAAAAQAAAAAAgAEAAAAAAAABAAAAAADAAQAAAAAAgACAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAAEAAAAAAAABAAAAAACAAQAAAAAAgAEAAAAAAMABAAAAAADAAQAAAAAAAAEAAAAAAAABAAAAAADAAQAAAAAAwAEAAAAAAEAAgAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAABAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAABAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAEAAAAAAAACAAAAAAAAAQAAAAAAAAwAAAAAAgAMAAAAAAIAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAQAAAAAAgACAAAAAAAABAAAAAADAAQAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAMAAAAAAIADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAADUAAAAAAAAEAAAAAAMABAAAAAADAAQAAAAAAQAEAAAAAAMAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAADAAAAAACAAwAAAAAAwACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAACAAIAAAAAAAAEAAAAAAAABAAAAAADAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQAAAAAAAAwAAAAAAgAMAAAAAAAANQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAEAAAAAAAAMAAAAAAAADAAAAAACAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAABAAAAAAAADAAAAAABAAwAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAEAAAAAAAAhAAAAAAAAIQAAAAAAACEAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAADAAQAAAAAAAAEAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAANQAAAAAAAAQAAAAAAQAEAAAAAAMABAAAAAACAAQAAAAAAAACAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAQAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAAEAAAAAAMABAAAAAABAAQAAAAAAAAEAAAAAAEAAgAAAAAAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAEAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAABAAAAAAAAAQAAAAAAQAEAAAAAAIAAgAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAgAAAAAAAAIAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA==
           version: 7
         3,-1:
           ind: 3,-1
@@ -11310,7 +11310,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -47448.824
+      secondsUntilStateChange: -54752.254
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -12237,7 +12237,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -9342.797
+      secondsUntilStateChange: -16646.227
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -61832,7 +61832,7 @@ entities:
     - type: Transform
       pos: -15.5,-42.5
       parent: 2
-  - uid: 11950
+  - uid: 11962
     components:
     - type: Transform
       pos: -58.5,5.5
@@ -62152,6 +62152,11 @@ entities:
       parent: 2
 - proto: DefaultStationBeacon
   entities:
+  - uid: 11951
+    components:
+    - type: Transform
+      pos: -27.5,4.5
+      parent: 2
   - uid: 12814
     components:
     - type: Transform
@@ -73123,6 +73128,11 @@ entities:
     - type: Transform
       pos: -3.5,-36.5
       parent: 2
+  - uid: 4456
+    components:
+    - type: Transform
+      pos: -7.5,-3.5
+      parent: 2
   - uid: 9152
     components:
     - type: Transform
@@ -73152,11 +73162,6 @@ entities:
     components:
     - type: Transform
       pos: 46.5,-32.5
-      parent: 2
-  - uid: 10915
-    components:
-    - type: Transform
-      pos: -7.5,-3.5
       parent: 2
   - uid: 11216
     components:
@@ -78130,7 +78135,7 @@ entities:
       parent: 2
     - type: Fixtures
       fixtures: {}
-  - uid: 11954
+  - uid: 11968
     components:
     - type: Transform
       pos: -56.5,6.5
@@ -124403,7 +124408,7 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -17.5,-41.5
       parent: 2
-  - uid: 11951
+  - uid: 11963
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -129337,11 +129342,6 @@ entities:
     components:
     - type: Transform
       pos: 28.5,35.5
-      parent: 2
-  - uid: 4456
-    components:
-    - type: Transform
-      pos: -3.5,19.5
       parent: 2
   - uid: 6872
     components:
@@ -138141,7 +138141,7 @@ entities:
     - type: Transform
       pos: -24.5,-9.5
       parent: 2
-  - uid: 11962
+  - uid: 12114
     components:
     - type: Transform
       pos: -52.5,22.5
@@ -142347,7 +142347,7 @@ entities:
     - type: Transform
       pos: -15.5,-38.5
       parent: 2
-  - uid: 11948
+  - uid: 11960
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -142502,26 +142502,42 @@ entities:
       rot: 3.141592653589793 rad
       pos: -31.5,37.5
       parent: 2
-  - uid: 11956
+  - uid: 11941
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -21.5,40.5
+      parent: 2
+  - uid: 12096
     components:
     - type: Transform
       pos: -46.5,13.5
       parent: 2
 - proto: SignRedThree
   entities:
-  - uid: 11960
+  - uid: 11944
+    components:
+    - type: Transform
+      pos: -15.5,40.5
+      parent: 2
+  - uid: 12113
     components:
     - type: Transform
       pos: -39.5,13.5
       parent: 2
 - proto: SignRedTwo
   entities:
-  - uid: 11959
+  - uid: 11940
+    components:
+    - type: Transform
+      pos: -18.5,40.5
+      parent: 2
+  - uid: 12097
     components:
     - type: Transform
       pos: -43.5,13.5
       parent: 2
-  - uid: 11963
+  - uid: 12117
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -142850,7 +142866,7 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 13.5,36.5
       parent: 2
-  - uid: 11953
+  - uid: 11964
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -145036,6 +145052,11 @@ entities:
       rot: 3.141592653589793 rad
       pos: -38.5,45.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: conference office
   - uid: 27791
     components:
     - type: Transform
@@ -145064,58 +145085,97 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -39.5,66.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI airlock
   - uid: 27795
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -38.5,72.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI entry south
   - uid: 27796
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -35.5,76.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI entry east
   - uid: 27797
     components:
     - type: Transform
       pos: -45.5,74.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI passage
   - uid: 27798
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -43.5,83.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI power
   - uid: 27799
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -47.5,83.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI office
   - uid: 27800
     components:
     - type: Transform
       pos: -37.5,60.5
       parent: 2
-  - uid: 27801
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -37.5,63.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: exterior passage AI
   - uid: 27804
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -51.5,76.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI core east
   - uid: 27805
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -59.5,80.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraCommand
+      nameSet: True
+      id: AI core west
   - uid: 27840
     components:
     - type: Transform
@@ -145140,12 +145200,28 @@ entities:
       id: passage front
 - proto: SurveillanceCameraEngineering
   entities:
+  - uid: 10915
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -0.5,-35.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: chief engineer
   - uid: 26280
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 35.5,-60.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: solar south exterior 2
   - uid: 27820
     components:
     - type: Transform
@@ -145184,40 +145260,75 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -12.5,-37.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: front counter
   - uid: 27912
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -8.5,-34.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: reception
   - uid: 27913
     components:
     - type: Transform
       pos: -5.5,-40.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: hall west
   - uid: 27914
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -10.5,-46.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: breakroom
   - uid: 27915
     components:
     - type: Transform
       pos: -1.5,-47.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: ame
   - uid: 27916
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 4.5,-47.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: smes
   - uid: 27917
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 4.5,-49.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: pa control
   - uid: 27918
     components:
     - type: Transform
@@ -145277,77 +145388,142 @@ entities:
       rot: 3.141592653589793 rad
       pos: -3.5,-49.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: tesla supplies
   - uid: 27928
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 10.5,-49.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: singularity supplies
   - uid: 27929
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 13.5,-42.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: hall east
   - uid: 27930
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 5.5,-37.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: gravity
   - uid: 27931
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 7.5,-37.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: anchor
   - uid: 27932
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 19.5,-39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: materials
   - uid: 27933
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 21.5,-60.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: solar south exterior 1
   - uid: 27934
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 22.5,-56.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: solar south
   - uid: 27936
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 18.5,-45.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: tech vault
   - uid: 27939
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 27.5,-49.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos exterior north
   - uid: 27940
     components:
     - type: Transform
       pos: 35.5,-58.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos chamber south
   - uid: 27941
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 35.5,-52.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos chamber north
   - uid: 27942
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 26.5,-54.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos exterior west
   - uid: 27943
     components:
     - type: Transform
@@ -145360,18 +145536,33 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 31.5,-38.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos main north
   - uid: 27945
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 23.5,-33.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos breakroom
   - uid: 27946
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 29.5,-29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: atmos reception
   - uid: 27947
     components:
     - type: Transform
@@ -145417,6 +145608,11 @@ entities:
       rot: 3.141592653589793 rad
       pos: 50.5,-59.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraEngineering
+      nameSet: True
+      id: solar south exterior 3
 - proto: SurveillanceCameraGeneral
   entities:
   - uid: 230
@@ -145425,7 +145621,12 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 15.5,-10.5
       parent: 2
-  - uid: 11941
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage park southeast
+  - uid: 11945
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -145436,7 +145637,7 @@ entities:
       - SurveillanceCameraGeneral
       nameSet: True
       id: passage north west
-  - uid: 11945
+  - uid: 11956
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -145447,7 +145648,7 @@ entities:
       - SurveillanceCameraGeneral
       nameSet: True
       id: laundry
-  - uid: 11946
+  - uid: 11959
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
@@ -145741,53 +145942,98 @@ entities:
     - type: Transform
       pos: -12.5,6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage security
   - uid: 28030
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -5.5,5.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage park northwest
   - uid: 28031
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -3.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage park west
   - uid: 28032
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -3.5,-11.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage park southwest
   - uid: 28034
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 13.5,3.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage park northeast
   - uid: 28036
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 2.5,2.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: park north
   - uid: 28037
     components:
     - type: Transform
       pos: 2.5,-10.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: park south
   - uid: 28038
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -1.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: park west
   - uid: 28039
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 11.5,-6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: park east
   - uid: 28040
     components:
     - type: Transform
@@ -145826,118 +146072,218 @@ entities:
       rot: 3.141592653589793 rad
       pos: 16.5,10.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage chaplain
   - uid: 28048
     components:
     - type: Transform
       pos: 29.5,8.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage tools
   - uid: 28049
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 36.5,10.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage lecture hall
   - uid: 28050
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 39.5,6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage head of personnel
   - uid: 28051
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 39.5,-2.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage gymnasium
   - uid: 28052
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 40.5,-9.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage library
   - uid: 28053
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 40.5,-17.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage service breakroom
   - uid: 28054
     components:
     - type: Transform
       pos: 40.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage cargo
   - uid: 28055
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 27.5,16.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage cryo sleep
   - uid: 28056
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 30.5,23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage cafeteria
   - uid: 28057
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 30.5,31.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage kitchen
   - uid: 28058
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 32.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage reporter east
   - uid: 28059
     components:
     - type: Transform
       pos: 22.5,37.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage reporter
   - uid: 28060
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 37.5,44.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: side passage evac sec waiting
   - uid: 28064
     components:
     - type: Transform
       pos: 13.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage law
   - uid: 28074
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 7.5,52.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: escape pods north
   - uid: 28075
     components:
     - type: Transform
       pos: 48.5,36.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: passage evac
   - uid: 28076
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 45.5,42.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: evac west 1
   - uid: 28077
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 56.5,43.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: evac west 2
   - uid: 28078
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 58.5,43.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraGeneral
+      nameSet: True
+      id: evac east 1
 - proto: SurveillanceCameraMedical
   entities:
-  - uid: 11943
+  - uid: 11946
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -145948,7 +146294,7 @@ entities:
       - SurveillanceCameraMedical
       nameSet: True
       id: breakroom
-  - uid: 11944
+  - uid: 11948
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
@@ -146317,7 +146663,7 @@ entities:
       parent: 2
 - proto: SurveillanceCameraScience
   entities:
-  - uid: 11940
+  - uid: 11943
     components:
     - type: Transform
       rot: 3.141592653589793 rad
@@ -146432,191 +146778,378 @@ entities:
       rot: 3.141592653589793 rad
       pos: -3.5,23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: chaplain office
   - uid: 27876
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 3.5,27.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: chapel
   - uid: 27877
     components:
     - type: Transform
       pos: 7.5,26.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: chapel morgue
   - uid: 27878
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -1.5,18.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: altar room north
   - uid: 27879
     components:
     - type: Transform
       pos: 3.5,8.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: altar room south
   - uid: 27880
     components:
     - type: Transform
       pos: 9.5,12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: cloister closet
   - uid: 27881
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 16.5,14.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: chaplain bedroom
   - uid: 27882
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 10.5,29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: psy mantis office
   - uid: 27883
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 16.5,27.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: psy mantis bedroom
   - uid: 27884
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 20.5,24.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: closter northwest
   - uid: 27885
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 8.5,20.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: cloister west
   - uid: 27889
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -6.5,-16.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact west observation
   - uid: 27890
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 0.5,-17.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact west hall
   - uid: 27891
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 10.5,-17.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact east hall
   - uid: 27892
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 13.5,-16.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact east observation
   - uid: 27893
     components:
     - type: Transform
       pos: 18.5,-28.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact east air
   - uid: 27894
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 11.5,-26.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact east supplies
   - uid: 27895
     components:
     - type: Transform
       pos: 9.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact east computer
   - uid: 27896
     components:
     - type: Transform
       pos: 1.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact west computer
   - uid: 27897
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -0.5,-27.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact west supplies
   - uid: 27898
     components:
     - type: Transform
       pos: -8.5,-28.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: artifact west air
   - uid: 27899
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 3.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: prober and server
   - uid: 27900
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 7.5,-16.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: research
   - uid: 27901
     components:
     - type: Transform
       pos: 7.5,-14.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: epi front
   - uid: 27903
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 15.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: passage anom
   - uid: 27904
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,-8.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: anom user testing
   - uid: 27905
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 23.5,-7.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: anom generator
   - uid: 27906
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 21.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: anom lounge
   - uid: 27907
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 26.5,-5.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: anom servers
   - uid: 27908
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 23.5,1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: mystagogue bedroom
   - uid: 27909
     components:
     - type: Transform
       pos: 23.5,4.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: mystagogue office
   - uid: 27910
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,3.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: lounge
   - uid: 28035
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 3.5,6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraScience
+      nameSet: True
+      id: passage chapel
 - proto: SurveillanceCameraSecurity
   entities:
+  - uid: 11950
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -13.5,18.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: south hall
+  - uid: 12120
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -13.5,36.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: prisoner lockers
   - uid: 21562
     components:
     - type: Transform
@@ -146657,232 +147190,438 @@ entities:
       rot: -1.5707963267948966 rad
       pos: -24.5,12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: detective
   - uid: 27850
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -12.5,12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: sec lockers
   - uid: 27851
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -19.5,14.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: breakroom
   - uid: 27852
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -22.5,22.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: head of security
   - uid: 27853
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -15.5,21.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: interrogation south
   - uid: 27854
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -15.5,25.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: interrogation north
   - uid: 27855
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -19.5,28.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: armory hall
   - uid: 27856
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -26.5,29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: west entrace
   - uid: 27857
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -22.5,32.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: armory weapons
   - uid: 27858
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -18.5,33.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: armory suits
   - uid: 27860
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -21.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: cell 1
   - uid: 27861
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -18.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: cell 2
   - uid: 27862
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -15.5,39.5
       parent: 2
-  - uid: 27864
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -11.5,38.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: cell 3
   - uid: 27865
     components:
     - type: Transform
       pos: -6.5,30.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: warden
   - uid: 27866
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -10.5,11.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: south entrance
   - uid: 27867
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -3.5,8.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: south front
   - uid: 27868
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -7.5,43.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: corpsman
   - uid: 27869
     components:
     - type: Transform
       pos: -9.5,45.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: perma visitor
   - uid: 27870
     components:
     - type: Transform
       pos: -20.5,51.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: perma west
   - uid: 27871
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -18.5,54.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: perma central
   - uid: 27872
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -9.5,54.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: perma east
   - uid: 27873
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -16.5,65.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: perma chapel
   - uid: 28061
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 40.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: evac checkpoint passage
   - uid: 28062
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 40.5,44.5
       parent: 2
-  - uid: 28063
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 40.5,47.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: evac checkpoint
   - uid: 28066
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -2.5,40.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: law court
   - uid: 28067
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 8.5,34.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: law court visitor
   - uid: 28068
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 11.5,48.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: lawyer
   - uid: 28069
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 14.5,52.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: chief justice
   - uid: 28070
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 16.5,52.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: law clerk
   - uid: 28071
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 18.5,48.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: honklaw lawyer
   - uid: 28072
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 24.5,47.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: honklaw visitor
   - uid: 28073
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 34.5,41.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSecurity
+      nameSet: True
+      id: honklaw court
 - proto: SurveillanceCameraService
   entities:
+  - uid: 11953
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 50.5,-15.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: cafe de cargo counter
+  - uid: 11954
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 53.5,10.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: maintenance disposal
+  - uid: 12128
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 49.5,8.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: head of personnel
   - uid: 27961
     components:
     - type: Transform
       pos: 35.5,-19.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: librarian bedroom
   - uid: 27962
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 33.5,-12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: library south
   - uid: 27963
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 37.5,-4.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: library north
   - uid: 27964
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 31.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: lecture hall south
   - uid: 27965
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 31.5,6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: lecture hall north
   - uid: 27966
     components:
     - type: Transform
@@ -146895,155 +147634,258 @@ entities:
       rot: -1.5707963267948966 rad
       pos: 45.5,-1.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: gym west
   - uid: 27968
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 57.5,-3.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: gym east
   - uid: 27969
     components:
     - type: Transform
       pos: 56.5,-11.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: red team
   - uid: 27970
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 57.5,6.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: blue team
   - uid: 27971
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 52.5,2.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: gym north
   - uid: 27972
     components:
     - type: Transform
       pos: 52.5,-7.5
       parent: 2
-  - uid: 27973
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: 50.5,-13.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: gym south
   - uid: 27974
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 56.5,-13.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: cafe de cargo tables
   - uid: 27975
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 48.5,-14.5
       parent: 2
-  - uid: 27977
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 49.5,9.5
-      parent: 2
-  - uid: 27978
-    components:
-    - type: Transform
-      pos: 46.5,4.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: breakroom
   - uid: 27979
     components:
     - type: Transform
       pos: 40.5,12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: bar breakroom
   - uid: 27980
     components:
     - type: Transform
       pos: 31.5,12.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: vox breakroom 1
   - uid: 27981
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 38.5,15.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: vox breakroom 2
   - uid: 27982
     components:
     - type: Transform
       pos: 37.5,17.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: bar
   - uid: 27983
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 42.5,27.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: cafeteria
   - uid: 27984
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 35.5,29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: cafeteria counter
   - uid: 27985
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 39.5,34.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: kitchen
   - uid: 27986
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 48.5,34.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: freezer
   - uid: 27987
     components:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 48.5,25.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: hydroponics
   - uid: 27988
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 52.5,29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: hydroponics animals
   - uid: 27989
     components:
     - type: Transform
       pos: 23.5,17.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: cryo sleep
   - uid: 27990
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 21.5,13.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: tools
   - uid: 27991
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 25.5,26.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: shop
   - uid: 27992
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 25.5,30.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: reporter computer
   - uid: 27993
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 26.5,35.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: reporter
   - uid: 27994
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 57.5,39.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: evac arcade
   - uid: 27995
     components:
     - type: Transform
@@ -147133,44 +147975,90 @@ entities:
       rot: 3.141592653589793 rad
       pos: 17.5,37.5
       parent: 2
-  - uid: 28079
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 52.5,7.5
-      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: janitor
   - uid: 28080
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 57.5,14.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraService
+      nameSet: True
+      id: disposal
 - proto: SurveillanceCameraSupply
   entities:
+  - uid: 12126
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 71.5,-40.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: salvage magnet
+  - uid: 12127
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 69.5,-46.5
+      parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: salvage dock
   - uid: 27948
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 49.5,-32.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: logistics officer
   - uid: 27949
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 48.5,-37.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: breakroom
   - uid: 27950
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 46.5,-42.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: salvage lockers
   - uid: 27951
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 51.5,-42.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: salvage breakroom
   - uid: 27952
     components:
     - type: Transform
@@ -147183,51 +148071,96 @@ entities:
       rot: -1.5707963267948966 rad
       pos: 60.5,-44.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: salvage exterior
   - uid: 27954
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 53.5,-36.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: south bay
   - uid: 27955
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 46.5,-28.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: mail
   - uid: 27956
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 51.5,-26.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: reception
   - uid: 27957
     components:
     - type: Transform
       pos: 54.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: passage front
   - uid: 27958
     components:
     - type: Transform
       pos: 64.5,-29.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: east bay 1
   - uid: 27959
     components:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 73.5,-26.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: east bay 2
   - uid: 27960
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 59.5,-21.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: exterior cargo dock
   - uid: 27976
     components:
     - type: Transform
       pos: 47.5,-23.5
       parent: 2
+    - type: SurveillanceCamera
+      setupAvailableNetworks:
+      - SurveillanceCameraSupply
+      nameSet: True
+      id: passage mail
 - proto: SurveillanceCameraWirelessRouterEntertainment
   entities:
   - uid: 8472
@@ -151169,6 +152102,11 @@ entities:
     components:
     - type: Transform
       pos: -11.5,29.5
+      parent: 2
+  - uid: 12121
+    components:
+    - type: Transform
+      pos: 28.5,-34.5
       parent: 2
   - uid: 12613
     components:
@@ -172198,7 +173136,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -102083.31
+      secondsUntilStateChange: -109386.74
       state: Opening
 - proto: WebShield
   entities:
@@ -172894,7 +173832,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -36742.047
+      secondsUntilStateChange: -44045.477
       state: Opening
     - type: Airlock
       autoClose: False
