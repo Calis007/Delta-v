@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 08/08/2025 22:31:03
-  entityCount: 28837
+  time: 08/09/2025 00:39:39
+  entityCount: 28843
 maps:
 - 1
 grids:
@@ -7248,6 +7248,8 @@ entities:
       - 21814
   - uid: 13293
     components:
+    - type: MetaData
+      name: epi robot passage
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -2.5,-15.5
@@ -7303,6 +7305,8 @@ entities:
       - 23930
   - uid: 21226
     components:
+    - type: MetaData
+      name: sec hall south
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -11.5,20.5
@@ -7927,6 +7931,8 @@ entities:
       - 24499
   - uid: 28201
     components:
+    - type: MetaData
+      name: maint med passage south
     - type: Transform
       pos: -34.5,-34.5
       parent: 2
@@ -7978,6 +7984,8 @@ entities:
       - 22313
   - uid: 28206
     components:
+    - type: MetaData
+      name: maint arrivals spacewalk
     - type: Transform
       pos: -61.5,-41.5
       parent: 2
@@ -8084,6 +8092,8 @@ entities:
       - 2946
   - uid: 28218
     components:
+    - type: MetaData
+      name: viro chem checkpoint
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -47.5,13.5
@@ -8106,6 +8116,8 @@ entities:
       - 2915
   - uid: 28220
     components:
+    - type: MetaData
+      name: viro room 1
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -47.5,10.5
@@ -8116,6 +8128,8 @@ entities:
       - 2805
   - uid: 28221
     components:
+    - type: MetaData
+      name: viro room 2
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -44.5,10.5
@@ -8126,6 +8140,8 @@ entities:
       - 2804
   - uid: 28222
     components:
+    - type: MetaData
+      name: viro room 3
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -41.5,10.5
@@ -8136,6 +8152,8 @@ entities:
       - 2803
   - uid: 28223
     components:
+    - type: MetaData
+      name: viro central
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -41.5,13.5
@@ -8410,6 +8428,8 @@ entities:
       - 22379
   - uid: 28267
     components:
+    - type: MetaData
+      name: anom passage
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 16.5,-7.5
@@ -8573,6 +8593,8 @@ entities:
       - 22374
   - uid: 28285
     components:
+    - type: MetaData
+      name: epi main
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 2.5,-21.5
@@ -9002,6 +9024,8 @@ entities:
       - 25647
   - uid: 28344
     components:
+    - type: MetaData
+      name: disposal
     - type: Transform
       rot: 3.141592653589793 rad
       pos: 58.5,11.5
@@ -9301,7 +9325,7 @@ entities:
   - uid: 28389
     components:
     - type: MetaData
-      name: maint north justice passage
+      name: maint clerk passage
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 20.5,54.5
@@ -9415,7 +9439,7 @@ entities:
   - uid: 28403
     components:
     - type: MetaData
-      name: reporter reception
+      name: reporter front
     - type: Transform
       pos: 26.5,36.5
       parent: 2
@@ -9904,6 +9928,8 @@ entities:
       - 21584
   - uid: 28472
     components:
+    - type: MetaData
+      name: epi brig hall
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -23.5,33.5
@@ -10076,6 +10102,8 @@ entities:
       - 23027
   - uid: 28487
     components:
+    - type: MetaData
+      name: perma cryosleep
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -5.5,49.5
@@ -10160,6 +10188,8 @@ entities:
       - 22365
   - uid: 28501
     components:
+    - type: MetaData
+      name: sec front waiting
     - type: Transform
       pos: -7.5,15.5
       parent: 2
@@ -10291,6 +10321,8 @@ entities:
       - 25165
   - uid: 28514
     components:
+    - type: MetaData
+      name: sec brig hall
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -15.5,36.5
@@ -12327,7 +12359,7 @@ entities:
       pos: 34.5,39.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -12990.3
+      secondsUntilStateChange: -14569.489
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -12816,7 +12848,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -81918.39
+      secondsUntilStateChange: -83497.58
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -13745,7 +13777,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -43812.367
+      secondsUntilStateChange: -45391.555
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -14741,6 +14773,8 @@ entities:
       parent: 2
   - uid: 16398
     components:
+    - type: MetaData
+      name: maint library passage
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 30.5,-13.5
@@ -14916,12 +14950,16 @@ entities:
       parent: 2
   - uid: 18140
     components:
+    - type: MetaData
+      name: maint bar passage
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -56.5,-38.5
       parent: 2
   - uid: 18141
     components:
+    - type: MetaData
+      name: maint med passage south
     - type: Transform
       pos: -37.5,-34.5
       parent: 2
@@ -14932,6 +14970,8 @@ entities:
       parent: 2
   - uid: 18143
     components:
+    - type: MetaData
+      name: maint west solar passage
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -56.5,-18.5
@@ -15061,6 +15101,8 @@ entities:
       parent: 2
   - uid: 19442
     components:
+    - type: MetaData
+      name: checkpoint evac passage
     - type: Transform
       pos: 35.5,40.5
       parent: 2
@@ -15180,6 +15222,8 @@ entities:
       parent: 2
   - uid: 20408
     components:
+    - type: MetaData
+      name: reporter front
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: 24.5,33.5
@@ -33774,6 +33818,8 @@ entities:
       parent: 2
   - uid: 20468
     components:
+    - type: MetaData
+      name: reporter
     - type: Transform
       pos: 24.5,33.5
       parent: 2
@@ -63451,6 +63497,12 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -51.5,53.5
       parent: 2
+  - uid: 6858
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -48.5,53.5
+      parent: 2
 - proto: ComputerFundingAllocation
   entities:
   - uid: 6847
@@ -63630,14 +63682,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -48.5,52.5
-      parent: 2
-- proto: ComputerShuttle
-  entities:
-  - uid: 6858
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -48.5,53.5
       parent: 2
 - proto: ComputerShuttleCargo
   entities:
@@ -138035,7 +138079,7 @@ entities:
   - uid: 10324
     components:
     - type: Transform
-      pos: 4.5,3.5
+      pos: -0.5,-5.5
       parent: 2
   - uid: 10325
     components:
@@ -138046,16 +138090,6 @@ entities:
     components:
     - type: Transform
       pos: 11.5,-3.5
-      parent: 2
-  - uid: 10328
-    components:
-    - type: Transform
-      pos: -0.5,-6.5
-      parent: 2
-  - uid: 10329
-    components:
-    - type: Transform
-      pos: 0.5,-0.5
       parent: 2
   - uid: 10331
     components:
@@ -138086,6 +138120,11 @@ entities:
     components:
     - type: Transform
       pos: 5.5,-9.5
+      parent: 2
+  - uid: 11639
+    components:
+    - type: Transform
+      pos: -0.5,-0.5
       parent: 2
 - proto: RandomFoodMeal
   entities:
@@ -138375,11 +138414,6 @@ entities:
     components:
     - type: Transform
       pos: -6.5,58.5
-      parent: 2
-  - uid: 11639
-    components:
-    - type: Transform
-      pos: -5.5,49.5
       parent: 2
   - uid: 11640
     components:
@@ -144964,6 +144998,46 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 59.5,48.5
+      parent: 2
+  - uid: 10328
+    components:
+    - type: Transform
+      pos: 39.5,45.5
+      parent: 2
+  - uid: 10329
+    components:
+    - type: Transform
+      pos: 29.5,48.5
+      parent: 2
+  - uid: 28838
+    components:
+    - type: Transform
+      pos: 3.5,41.5
+      parent: 2
+  - uid: 28839
+    components:
+    - type: Transform
+      pos: -9.5,38.5
+      parent: 2
+  - uid: 28840
+    components:
+    - type: Transform
+      pos: -39.5,-14.5
+      parent: 2
+  - uid: 28841
+    components:
+    - type: Transform
+      pos: -46.5,-25.5
+      parent: 2
+  - uid: 28842
+    components:
+    - type: Transform
+      pos: 39.5,16.5
+      parent: 2
+  - uid: 28843
+    components:
+    - type: Transform
+      pos: 43.5,30.5
       parent: 2
 - proto: Screwdriver
   entities:
@@ -153065,13 +153139,11 @@ entities:
   - uid: 155
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,54.5
       parent: 2
   - uid: 156
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,53.5
       parent: 2
   - uid: 275
@@ -153172,7 +153244,6 @@ entities:
   - uid: 1021
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,52.5
       parent: 2
   - uid: 1033
@@ -153188,7 +153259,6 @@ entities:
   - uid: 1432
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,54.5
       parent: 2
   - uid: 1477
@@ -153204,13 +153274,11 @@ entities:
   - uid: 1694
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,53.5
       parent: 2
   - uid: 1695
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,52.5
       parent: 2
   - uid: 1740
@@ -153261,7 +153329,6 @@ entities:
   - uid: 1855
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,49.5
       parent: 2
   - uid: 1878
@@ -154542,31 +154609,26 @@ entities:
   - uid: 28679
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,48.5
       parent: 2
   - uid: 28680
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,47.5
       parent: 2
   - uid: 28681
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,49.5
       parent: 2
   - uid: 28682
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,48.5
       parent: 2
   - uid: 28683
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,47.5
       parent: 2
 - proto: TableBrass
@@ -178179,7 +178241,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -136552.89
+      secondsUntilStateChange: -138132.1
       state: Opening
 - proto: WebShield
   entities:
@@ -178887,7 +178949,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -71211.62
+      secondsUntilStateChange: -72790.805
       state: Opening
     - type: Airlock
       autoClose: False

@@ -4,7 +4,7 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 08/08/2025 23:35:14
+  time: 08/09/2025 00:39:39
   entityCount: 28843
 maps:
 - 1
@@ -12359,7 +12359,7 @@ entities:
       pos: 34.5,39.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -14517.949
+      secondsUntilStateChange: -14569.489
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -12848,7 +12848,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -83446.04
+      secondsUntilStateChange: -83497.58
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -13777,7 +13777,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -45340.016
+      secondsUntilStateChange: -45391.555
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -63497,6 +63497,12 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -51.5,53.5
       parent: 2
+  - uid: 6858
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -48.5,53.5
+      parent: 2
 - proto: ComputerFundingAllocation
   entities:
   - uid: 6847
@@ -63676,14 +63682,6 @@ entities:
     - type: Transform
       rot: 1.5707963267948966 rad
       pos: -48.5,52.5
-      parent: 2
-- proto: ComputerShuttle
-  entities:
-  - uid: 6858
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -48.5,53.5
       parent: 2
 - proto: ComputerShuttleCargo
   entities:
@@ -153141,13 +153139,11 @@ entities:
   - uid: 155
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,54.5
       parent: 2
   - uid: 156
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,53.5
       parent: 2
   - uid: 275
@@ -153248,7 +153244,6 @@ entities:
   - uid: 1021
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,52.5
       parent: 2
   - uid: 1033
@@ -153264,7 +153259,6 @@ entities:
   - uid: 1432
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,54.5
       parent: 2
   - uid: 1477
@@ -153280,13 +153274,11 @@ entities:
   - uid: 1694
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,53.5
       parent: 2
   - uid: 1695
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,52.5
       parent: 2
   - uid: 1740
@@ -153337,7 +153329,6 @@ entities:
   - uid: 1855
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,49.5
       parent: 2
   - uid: 1878
@@ -154618,31 +154609,26 @@ entities:
   - uid: 28679
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,48.5
       parent: 2
   - uid: 28680
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -49.5,47.5
       parent: 2
   - uid: 28681
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,49.5
       parent: 2
   - uid: 28682
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,48.5
       parent: 2
   - uid: 28683
     components:
     - type: Transform
-      rot: 1.5707963267948966 rad
       pos: -46.5,47.5
       parent: 2
 - proto: TableBrass
@@ -178255,7 +178241,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -138080.55
+      secondsUntilStateChange: -138132.1
       state: Opening
 - proto: WebShield
   entities:
@@ -178963,7 +178949,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -72739.266
+      secondsUntilStateChange: -72790.805
       state: Opening
     - type: Airlock
       autoClose: False
