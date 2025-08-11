@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 08/11/2025 01:35:02
-  entityCount: 28770
+  time: 08/11/2025 02:24:47
+  entityCount: 28771
 maps:
 - 1
 grids:
@@ -10414,7 +10414,7 @@ entities:
       devices:
       - 23591
       - 23592
-      - 23582
+      - 21762
 - proto: AirCanister
   entities:
   - uid: 4224
@@ -12401,7 +12401,7 @@ entities:
       pos: 34.5,39.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -22174.576
+      secondsUntilStateChange: -22373.162
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -12890,7 +12890,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -91102.664
+      secondsUntilStateChange: -91301.25
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -13814,7 +13814,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -52996.645
+      secondsUntilStateChange: -53195.23
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -115502,15 +115502,13 @@ entities:
       color: '#0335FCFF'
 - proto: GasVentPumpVox
   entities:
-  - uid: 23582
+  - uid: 21762
     components:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: 36.5,14.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 446
     - type: AtmosPipeColor
@@ -119076,8 +119074,6 @@ entities:
       pos: 31.5,14.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 446
     - type: AtmosPipeColor
@@ -119089,8 +119085,6 @@ entities:
       pos: 36.5,13.5
       parent: 2
     - type: DeviceNetwork
-      configurators:
-      - invalid
       deviceLists:
       - 446
     - type: AtmosPipeColor
@@ -124565,6 +124559,13 @@ entities:
     components:
     - type: Transform
       pos: 5.5,-4.5
+      parent: 2
+- proto: HolopadGeneralVoxNitrogenLounge
+  entities:
+  - uid: 21763
+    components:
+    - type: Transform
+      pos: 34.5,14.5
       parent: 2
 - proto: HolopadJusticeCJ
   entities:
@@ -178023,7 +178024,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -145737.19
+      secondsUntilStateChange: -145935.78
       state: Opening
 - proto: WebShield
   entities:
@@ -178731,7 +178732,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -80395.89
+      secondsUntilStateChange: -80594.48
       state: Opening
     - type: Airlock
       autoClose: False
