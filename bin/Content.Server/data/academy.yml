@@ -4,8 +4,8 @@ meta:
   engineVersion: 260.2.0
   forkId: ""
   forkVersion: ""
-  time: 08/12/2025 02:23:27
-  entityCount: 28783
+  time: 08/14/2025 00:32:42
+  entityCount: 28795
 maps:
 - 1
 grids:
@@ -13687,7 +13687,7 @@ entities:
       pos: 34.5,39.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -32315.232
+      secondsUntilStateChange: -32842.934
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -14176,7 +14176,7 @@ entities:
       pos: -35.5,32.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -101243.32
+      secondsUntilStateChange: -101771.02
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -15100,7 +15100,7 @@ entities:
       pos: -19.5,40.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -63137.3
+      secondsUntilStateChange: -63665
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -15239,6 +15239,16 @@ entities:
     components:
     - type: Transform
       pos: -11.5,44.5
+      parent: 2
+  - uid: 16233
+    components:
+    - type: Transform
+      pos: -13.5,49.5
+      parent: 2
+  - uid: 16234
+    components:
+    - type: Transform
+      pos: -11.5,49.5
       parent: 2
 - proto: AirlockSecurityLocked
   entities:
@@ -19297,6 +19307,18 @@ entities:
     components:
     - type: Transform
       pos: 6.6839323,26.512835
+      parent: 2
+- proto: BoxBottleMedicineBasic
+  entities:
+  - uid: 28742
+    components:
+    - type: Transform
+      pos: -7.624508,43.622932
+      parent: 2
+  - uid: 28743
+    components:
+    - type: Transform
+      pos: -7.343258,43.42762
       parent: 2
 - proto: BoxCandle
   entities:
@@ -63395,6 +63417,13 @@ entities:
     components:
     - type: Transform
       pos: 62.5,-25.5
+      parent: 2
+- proto: CrateEmergencyInflatablewall
+  entities:
+  - uid: 27943
+    components:
+    - type: Transform
+      pos: -30.5,42.5
       parent: 2
 - proto: CrateEmergencyInternals
   entities:
@@ -126410,6 +126439,30 @@ entities:
       rot: 3.141592653589793 rad
       pos: 27.5,-22.5
       parent: 2
+- proto: InflatableDoorStack1
+  entities:
+  - uid: 28081
+    components:
+    - type: Transform
+      pos: -28.404894,42.648674
+      parent: 2
+  - uid: 28087
+    components:
+    - type: Transform
+      pos: -28.615831,42.367424
+      parent: 2
+- proto: InflatableWallStack5
+  entities:
+  - uid: 28353
+    components:
+    - type: Transform
+      pos: -29.381456,42.679924
+      parent: 2
+  - uid: 28739
+    components:
+    - type: Transform
+      pos: -29.537706,42.437737
+      parent: 2
 - proto: IngotGold
   entities:
   - uid: 12317
@@ -127373,6 +127426,11 @@ entities:
     components:
     - type: Transform
       pos: -48.5,83.5
+      parent: 2
+  - uid: 28740
+    components:
+    - type: Transform
+      pos: -8.5,43.5
       parent: 2
 - proto: LockerMime
   entities:
@@ -135694,6 +135752,18 @@ entities:
     - type: Transform
       pos: -4.5,-49.5
       parent: 2
+  - uid: 28082
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -28.5,42.5
+      parent: 2
+  - uid: 28084
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -29.5,42.5
+      parent: 2
   - uid: 28319
     components:
     - type: Transform
@@ -135709,6 +135779,11 @@ entities:
     components:
     - type: Transform
       pos: 27.5,24.5
+      parent: 2
+  - uid: 28741
+    components:
+    - type: Transform
+      pos: -7.5,43.5
       parent: 2
 - proto: RadiationCollectorFullTank
   entities:
@@ -146782,6 +146857,12 @@ entities:
       parent: 2
 - proto: SignDirectionalBrig
   entities:
+  - uid: 54
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -10.5,26.5
+      parent: 2
   - uid: 14916
     components:
     - type: Transform
@@ -147692,14 +147773,6 @@ entities:
     - type: Transform
       pos: -23.5,-24.5
       parent: 2
-- proto: SignGenpop
-  entities:
-  - uid: 54
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -12.5,44.5
-      parent: 2
 - proto: SignGravity
   entities:
   - uid: 46
@@ -147888,6 +147961,12 @@ entities:
     components:
     - type: Transform
       pos: -24.5,37.5
+      parent: 2
+  - uid: 27940
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -12.5,44.5
       parent: 2
 - proto: SignPsychology
   entities:
@@ -157259,21 +157338,6 @@ entities:
     components:
     - type: Transform
       pos: -23.45934,21.573986
-      parent: 2
-- proto: TurnstileGenpopEnter
-  entities:
-  - uid: 16234
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -11.5,49.5
-      parent: 2
-- proto: TurnstileGenpopLeave
-  entities:
-  - uid: 16233
-    components:
-    - type: Transform
-      pos: -13.5,49.5
       parent: 2
 - proto: TwoWayLever
   entities:
@@ -179372,7 +179436,7 @@ entities:
       pos: -60.5,-28.5
       parent: 2
     - type: Door
-      secondsUntilStateChange: -155877.86
+      secondsUntilStateChange: -156405.56
       state: Opening
 - proto: WebShield
   entities:
@@ -180080,7 +180144,7 @@ entities:
       lastSignals:
         DoorStatus: True
     - type: Door
-      secondsUntilStateChange: -90536.55
+      secondsUntilStateChange: -91064.25
       state: Opening
     - type: Airlock
       autoClose: False
