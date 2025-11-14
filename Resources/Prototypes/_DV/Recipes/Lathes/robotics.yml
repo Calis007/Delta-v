@@ -36,6 +36,11 @@
     Plastic: 100
     Glass: 300
 
+- type: latheRecipe
+  parent: BaseBorgModuleRecipe
+  id: BorgModuleDecoration
+  result: BorgModuleDecoration
+
 # Robo Neuroling recipes
 
 - type: latheRecipe
@@ -227,3 +232,13 @@
   parent: BaseBorgModuleRecipe
   id: AugmentPaperworkPanelElectronics
   result: AugmentPaperworkPanelElectronics
+
+- type: latheRecipe
+  parent: BaseIPCOrganRecipe
+  id: OrganIPCSpacePump
+  result: OrganIPCSpacePump
+  materials:
+    Steel: 2000
+    Plasma: 1000
+    Plastic: 1000
+    Gold: 500
