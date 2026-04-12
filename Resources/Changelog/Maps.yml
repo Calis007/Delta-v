@@ -924,4 +924,14 @@
   id: 107
   time: '2026-03-21T16:28:20.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/5511
+- author: Biddygelson
+  changes:
+  - message: 'Academy: Trash bins and disposals fixed, CJ has correct dresser.'
+    type: Fix
+  - message: 'Academy: Epi-Cargo hall has more doors, Different gas canisters in Atmos
+      for Epi to ask for, more fax machines, and other tweaks. No more super weapon!'
+    type: Tweak
+  id: 108
+  time: '2026-04-12T18:56:00.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5588
 Order: 3
