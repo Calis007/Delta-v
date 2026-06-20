@@ -150,18 +150,16 @@
   id: FillLockerAtmospherics
   table: !type:AllSelector
     children:
+    - !type:NestedSelector # DeltaV
+      tableId: FillLockerAtmosphericsDeltaV
     - id: ClothingMaskGasAtmos
     - id: ClothingOuterSuitAtmosFire
     - id: ClothingHeadHelmetAtmosFire
-    - id: ClothingHandsGlovesColorYellow # DeltaV - Give atmos techs boots and insuls
     - id: GasAnalyzer
     - id: MedkitOxygenFilled
     - id: HolofanProjector
-    - id: DoorRemoteFirefight # DeltaV - Re-added fire-fighting remote.
     - id: RCD
     - id: RCDAmmo
-    - id: LunchboxEngineeringFilledRandom # DeltaV - Lunchboxes!
-      prob: 0.3
     - id: AirGrenade
 
 - type: entityTable
@@ -201,15 +199,14 @@
   id: FillLockerEngineer
   table: !type:AllSelector
     children:
+    - !type:NestedSelector # DeltaV
+      tableId: FillLockerEngineerDeltaV
     - id: ClothingHandsGlovesColorYellow
     - id: ClothingMaskGas
     - id: trayScanner
     - id: RCD
     - id: RCDAmmo
     - id: MetalFoamGrenade
-    - id: LunchboxEngineeringFilledRandom # DeltaV - Lunchboxes!
-      prob: 0.3
-    - id: HolotapeProjector # DeltaV - engineering tape
 
 - type: entityTable
   id: FillEngineerHardsuit
@@ -237,9 +234,11 @@
     - id: ClothingOuterSuitRad
       amount: 2
     - id: GeigerCounter
-      amount: 2
-    - id: PillCanisterPotassiumIodide
-      prob: 0.75
+      amount: !type:ConstantNumberSelector
+        value: 2
+    - id: PillCanisterPotassiumIodide # Far Horizons / Nuclear Reactor Port Start
+      amount: !type:ConstantNumberSelector
+        value: 2 # Far Horizons / Nuclear Reactor Port End
 
 - type: entity
   parent: LockerEvacRepair

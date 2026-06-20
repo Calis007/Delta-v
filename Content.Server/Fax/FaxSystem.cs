@@ -5,12 +5,14 @@ using Content.Server.DeviceNetwork.Systems;
 using Content.Server.Popups;
 using Content.Server.Power.Components;
 using Content.Server.Tools;
+using Content.Shared._DV.Pager; // DeltaV - pagers
 using Content.Shared.Administration.Logs;
 using Content.Shared.Containers.ItemSlots;
 using Content.Shared.Database;
 using Content.Shared.DeviceNetwork;
 using Content.Shared.DeviceNetwork.Components;
 using Content.Shared.DeviceNetwork.Events;
+using Content.Shared.DeviceNetwork.Systems; // DeltaV - map init ordering
 using Content.Shared.Emag.Systems;
 using Content.Shared.Fax;
 using Content.Shared.Fax.Components;
@@ -51,6 +53,7 @@ public sealed class FaxSystem : EntitySystem
     [Dependency] private readonly MetaDataSystem _metaData = default!;
     [Dependency] private readonly FaxecuteSystem _faxecute = default!;
     [Dependency] private readonly EmagSystem _emag = default!;
+    [Dependency] private readonly PageSenderSystem _pageSender = default!; // DeltaV - pagers
 
     private static readonly ProtoId<ToolQualityPrototype> ScrewingQuality = "Screwing";
 
@@ -62,7 +65,7 @@ public sealed class FaxSystem : EntitySystem
 
         // Hooks
         SubscribeLocalEvent<FaxMachineComponent, ComponentInit>(OnComponentInit);
-        SubscribeLocalEvent<FaxMachineComponent, MapInitEvent>(OnMapInit);
+        SubscribeLocalEvent<FaxMachineComponent, MapInitEvent>(OnMapInit, after: [typeof(SharedDeviceNetworkSystem)]); // DeltaV - map init order, we need address assigned first
         SubscribeLocalEvent<FaxMachineComponent, ComponentRemove>(OnComponentRemove);
 
         SubscribeLocalEvent<FaxMachineComponent, EntInsertedIntoContainerMessage>(OnItemSlotChanged);
@@ -299,6 +302,11 @@ public sealed class FaxSystem : EntitySystem
                     if (!args.Data.TryGetValue(FaxConstants.FaxPaperNameData, out string? name) ||
                         !args.Data.TryGetValue(FaxConstants.FaxPaperContentData, out string? content))
                         return;
+                    // Begin DeltaV - we removed the power requirement from device network but we still don't want
+                    // unpowered faxes to happen
+                    if (TryComp<ApcPowerReceiverComponent>(uid, out var receiver) && !receiver.Powered)
+                        return;
+                    // End DeltaV
 
                     args.Data.TryGetValue(FaxConstants.FaxPaperLabelData, out string? label);
                     args.Data.TryGetValue(FaxConstants.FaxPaperStampStateData, out string? stampState);
@@ -585,6 +593,7 @@ public sealed class FaxSystem : EntitySystem
 
         _popupSystem.PopupEntity(Loc.GetString("fax-machine-popup-received", ("from", faxName)), uid);
         _appearanceSystem.SetData(uid, FaxMachineVisuals.VisualState, FaxMachineVisualState.Printing);
+        _pageSender.Notify(uid, Loc.GetString("pager-message-fax", ("faxname", faxName))); // DeltaV - pagers
 
         if (component.NotifyAdmins)
             NotifyAdmins(faxName);
